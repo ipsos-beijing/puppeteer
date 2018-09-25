@@ -1,14 +1,14 @@
 {
-  "name": "puppeteer",
-  "version": "1.8.0-post",
-  "description": "A high-level API to control headless Chrome over the DevTools Protocol",
+  "name": "paaafff-cn",
+  "version": "1.0.0",
+  "description": "A high-level API to control headless Chrome over the DevTools Protocol,for China",
   "main": "index.js",
-  "repository": "github:GoogleChrome/puppeteer",
+  "repository": "github:ipsos-beijing/puppeteer",
   "engines": {
     "node": ">=6.4.0"
   },
   "puppeteer": {
-    "chromium_revision": "591618"
+    "chromium_revision": "590951"
   },
   "scripts": {
     "unit": "node test/test.js",
